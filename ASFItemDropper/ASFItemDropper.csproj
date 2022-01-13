@@ -2,15 +2,15 @@
 
   <PropertyGroup>
     <Authors>Sniper677</Authors>
-    <AssemblyVersion>0.3.3.1</AssemblyVersion>
-    <TargetFrameworks>net5.0</TargetFrameworks>
+    <AssemblyVersion>0.3.3.2</AssemblyVersion>
+    <TargetFrameworks>net6.0</TargetFrameworks>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="System.Composition.AttributedModel" Version="5.0.1" />
+    <PackageReference Include="System.Composition.AttributedModel" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
