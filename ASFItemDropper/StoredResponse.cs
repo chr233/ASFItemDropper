@@ -1,10 +1,9 @@
-﻿using SteamKit2.Internal;
+using SteamKit2.Internal;
 
-namespace ASFItemDropManager
+namespace ASFItemDropper;
+
+class StoredResponse
 {
-    class StoredResponse
-    {
-        public bool Success { get; set; }
-        public CMsgClientGetUserStatsResponse? Response { get; set; }
-    }
+    public bool Success { get; set; }
+    public CMsgClientGetUserStatsResponse? Response { get; set; }
 }
