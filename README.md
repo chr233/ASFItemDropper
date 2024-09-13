@@ -1,4 +1,5 @@
 # ASF Item Dropper
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/chr233/ASF_ItemDropper?color=brightgreen&label=Updated&logo=Github&logoColor=white)](https://github.com/chr233/ASF_ItemDropper/commits)
 [![GitHub all releases](https://img.shields.io/github/downloads/chr233/ASF_ItemDropper/total?color=brightgreen&label=Downloads&logo=Github&logoColor=white)](https://github.com/chr233/ASF_ItemDropper/releases)
 
@@ -9,7 +10,9 @@
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/chr233/ASF_ItemDropper?color=blue&label=Prerelease&logo=Github&logoColor=white)](https://github.com/chr233/ASF_ItemDropper/releases)
 [![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/chr233/ASF_ItemDropper?color=brightgreen&label=Released&logo=Github&logoColor=white)](https://github.com/chr233/ASF_ItemDropper/releases)
 
-> No longer maintained, :-D 
+> No longer maintained, :-D
+>
+> Please don't ask me any question about this plugin
 
 ## DISCLAIMER
 
